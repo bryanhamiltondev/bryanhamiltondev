@@ -21,7 +21,7 @@ I like my software the way I like my sets: no bloat, every element intentional.
 
 ### What I'm working on
 
-- **[jsonld-schema-audit](https://github.com/bryanhamilton/jsonld-schema-audit)** -
+- **[jsonld-schema-audit]([https://github.com/bryanhamilton/jsonld-schema-audit])** -
   Zero-dependency PHP CLI that audits JSON-LD structured data: validates required
   properties per schema.org type, resolves every internal `@id` reference, and fails
   CI on regressions. Took The DJ Calendar from hundreds of Rich Results warnings to zero.
