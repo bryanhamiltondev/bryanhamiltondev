@@ -19,13 +19,28 @@ and zero-dependency tooling I build when the off-the-shelf answers aren't good e
 
 I like my software the way I like my sets: no bloat, every element intentional.
 
+
 ### What I'm working on
 
 - jsonld-schema-audit (https://github.com/bryanhamiltondev/jsonld-schema-audit) -
   Zero-dependency PHP CLI that audits JSON-LD structured data: validates required
   properties per schema.org type, resolves every internal @id reference, and fails
   CI on regressions. Took The DJ Calendar from hundreds of Rich Results warnings to zero.
-- **The DJ Calendar** - electronic music event discovery: Leaflet-based city maps,
+- wp-schema-audit (https://github.com/bryanhamiltondev/wp-schema-audit) -
+  WordPress plugin port of the auditor: WP-CLI command, admin Tools page, and a
+  CI self-test running real fixtures, all powered by one framework-agnostic engine.
+- tour-feed-pipeline (https://github.com/bryanhamiltondev/tour-feed-pipeline) -
+  Production-excerpt ingestion pipeline for tour dates: normalization, dedupe,
+  and resilience patterns from a live event platform.
+- csrf-json-fetch (https://github.com/bryanhamiltondev/csrf-json-fetch) -
+  Hardened fetch wrapper: CSRF token lifecycle, header+body dual injection,
+  single-retry-on-expiry policy.
+- sri-lazy-loader (https://github.com/bryanhamiltondev/sri-lazy-loader) -
+  Race-safe lazy script loader with Subresource Integrity.
+- event-calendar-schema (https://github.com/bryanhamiltondev/event-calendar-schema) -
+  MySQL schema and PDO data layer: idempotent upserts, double opt-in subscribers,
+  query-shaped indexes.
+- The DJ Calendar - electronic music event discovery: Leaflet-based city maps,
   8-bar sensory equalizer, newsletter infra, and a homegrown SEO/schema pipeline.
 
 ### The toolkit
