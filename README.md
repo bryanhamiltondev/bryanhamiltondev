@@ -1,15 +1,8 @@
-<p align="center">
-  <img src="./banner.png" alt="Bryan Hamilton - Full-Stack Web Engineer" width="880" />
-</p>
+Bryan Hamilton
 
-<h1 align="center">Bryan Hamilton</h1>
-<p align="center">
-  Full-Stack Web Engineer &bull; Founder, <a href="https://thedjcalendar.com">The DJ Calendar</a> &bull; New Jersey, USA
-</p>
+Full-Stack Web Engineer • Founder, The DJ Calendar (https://thedjcalendar.com) • New Jersey, USA
 
----
-
-### About
+About
 
 I've been building for the web since the late 90s - from KPMG back-office systems and
 the NY Daily News CMS to out-of-home media platforms used by millions of commuters.
@@ -19,43 +12,33 @@ and zero-dependency tooling I build when the off-the-shelf answers aren't good e
 
 I like my software the way I like my sets: no bloat, every element intentional.
 
+What I'm working on
 
-### What I'm working on
+A series of small, production-derived repos - each one isolates a single engineering
+problem from The DJ Calendar and publishes the pattern, not the infrastructure:
 
 - jsonld-schema-audit (https://github.com/bryanhamiltondev/jsonld-schema-audit) -
   Zero-dependency PHP CLI that audits JSON-LD structured data: validates required
   properties per schema.org type, resolves every internal @id reference, and fails
   CI on regressions. Took The DJ Calendar from hundreds of Rich Results warnings to zero.
-- wp-schema-audit (https://github.com/bryanhamiltondev/wp-schema-audit) -
-  WordPress plugin port of the auditor: WP-CLI command, admin Tools page, and a
-  CI self-test running real fixtures, all powered by one framework-agnostic engine.
-- tour-feed-pipeline (https://github.com/bryanhamiltondev/tour-feed-pipeline) -
-  Production-excerpt ingestion pipeline for tour dates: normalization, dedupe,
-  and resilience patterns from a live event platform.
 - csrf-json-fetch (https://github.com/bryanhamiltondev/csrf-json-fetch) -
-  Hardened fetch wrapper: CSRF token lifecycle, header+body dual injection,
-  single-retry-on-expiry policy.
+  Hardened vanilla-JS fetch wrapper: CSRF token lifecycle, header+body dual injection,
+  and a strict single-retry-on-expiry policy.
 - sri-lazy-loader (https://github.com/bryanhamiltondev/sri-lazy-loader) -
-  Race-safe lazy script loader with Subresource Integrity.
+  Race-safe lazy script loader with Subresource Integrity: concurrent-caller dedupe,
+  pre-existing-tag detection, timeout with cleanup.
 - event-calendar-schema (https://github.com/bryanhamiltondev/event-calendar-schema) -
-  MySQL schema and PDO data layer: idempotent upserts, double opt-in subscribers,
-  query-shaped indexes.
+  MySQL schema and PDO data layer: idempotent event upserts, double opt-in subscribers,
+  query-shaped composite indexes.
+- In progress: a WordPress plugin port of the schema auditor (WP-CLI command, admin
+  Tools page, CI self-test with real fixtures) and an ingestion-pipeline excerpt
+  covering tour-date normalization and dedupe.
 - The DJ Calendar - electronic music event discovery: Leaflet-based city maps,
   8-bar sensory equalizer, newsletter infra, and a homegrown SEO/schema pipeline.
 
-### The toolkit
+The toolkit
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-Schema.org-3fb950?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+Find me
 
-### Find me
-
-<p>
-  <a href="https://thedjcalendar.com"><img src="https://img.shields.io/badge/website-thedjcalendar.com-3fb950?style=flat-square" /></a>
-  <a href="mailto:bryan_hamilton@me.com"><img src="https://img.shields.io/badge/email-bryan__hamilton@me.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+ (https://thedjcalendar.com)
+ (mailto:bryan_hamilton@me.com)
