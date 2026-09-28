@@ -2,6 +2,8 @@
 
 **Full-Stack Web Engineer • Founder, The DJ Calendar (https://thedjcalendar.com) • New Jersey, USA**
 
+**Application packages** - interactive HTML, edit in browser, print to PDF: [Tech](https://thedjcalendar.com/resume/bryan-hamilton-tech.html) • [Retail](https://thedjcalendar.com/resume/bryan-hamilton-retail.html)
+
 ## About
 
 I've been building for the web since the late 90s - from KPMG back-office systems and
