@@ -2,7 +2,7 @@
 
 **Full-Stack Web Engineer • Founder, The DJ Calendar (https://thedjcalendar.com) • New Jersey, USA**
 
-**Résumé packages** - interactive HTML, edit in browser, print to PDF: [Tech](https://thedjcalendar.com/resume/bryan-hamilton-tech.html) • [Retail](https://thedjcalendar.com/resume/bryan-hamilton-retail.html)
+> **Résumé: https://thedjcalendar.com/resume/** - interactive packages you can open, edit, and print to PDF: [Tech](https://thedjcalendar.com/resume/bryan-hamilton-tech.html) • [Retail](https://thedjcalendar.com/resume/bryan-hamilton-retail.html)
 
 ## About
 
@@ -73,6 +73,7 @@ problem from The DJ Calendar and publishes the pattern, not the infrastructure:
 
 ## Find me
 
+- **Résumé** (https://thedjcalendar.com/resume/) - both application packages, live on my site
 - **The DJ Calendar** (https://thedjcalendar.com) - electronic music event discovery, live in production
 - **LinkedIn** (https://www.linkedin.com/in/bryanhamilton-nj)
 - **Email** - [bryan_hamilton@me.com](mailto:bryan_hamilton@me.com)
