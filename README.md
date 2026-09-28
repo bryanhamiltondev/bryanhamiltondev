@@ -30,9 +30,12 @@ problem from The DJ Calendar and publishes the pattern, not the infrastructure:
 - event-calendar-schema (https://github.com/bryanhamiltondev/event-calendar-schema) -
   MySQL schema and PDO data layer: idempotent event upserts, double opt-in subscribers,
   query-shaped composite indexes.
-- In progress: a WordPress plugin port of the schema auditor (WP-CLI command, admin
-  Tools page, CI self-test with real fixtures) and an ingestion-pipeline excerpt
-  covering tour-date normalization and dedupe.
+- wp-schema-audit (https://github.com/bryanhamiltondev/wp-schema-audit) -
+  WordPress plugin port of the schema auditor: WP-CLI command, admin Tools page,
+  and a CI self-test that asserts both the pass and fail directions against real
+  fixtures.
+- In progress: an ingestion-pipeline excerpt covering tour-date normalization
+  and dedupe.
 - The DJ Calendar - electronic music event discovery: Leaflet-based city maps,
   8-bar sensory equalizer, newsletter infra, and a homegrown SEO/schema pipeline.
 
