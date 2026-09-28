@@ -5,7 +5,8 @@
 ## About
 
 I've been building for the web since the late 90s - from KPMG back-office systems and
-the NY Daily News CMS to out-of-home media platforms used by millions of commuters.
+the NY Daily News CMS to out-of-home media platforms at OUTFRONT Media, used by
+millions of commuters.
 Today I run The DJ Calendar, an electronic music event discovery platform I founded in
 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, newsletter infrastructure,
 and zero-dependency tooling I build when the off-the-shelf answers aren't good enough.
