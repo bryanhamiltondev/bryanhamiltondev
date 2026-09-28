@@ -75,4 +75,4 @@ problem from The DJ Calendar and publishes the pattern, not the infrastructure:
 
 - **The DJ Calendar** (https://thedjcalendar.com) - electronic music event discovery, live in production
 - **LinkedIn** (https://www.linkedin.com/in/bryanhamilton-nj)
-- bryan_hamilton@me.com (mailto:bryan_hamilton@me.com)
+- **Email** - [bryan_hamilton@me.com](mailto:bryan_hamilton@me.com)
