@@ -39,15 +39,14 @@ problem from The DJ Calendar and publishes the pattern, not the infrastructure:
 - The DJ Calendar - electronic music event discovery: Leaflet-based city maps,
   8-bar sensory equalizer, newsletter infra, and a homegrown SEO/schema pipeline.
 
-  
 The toolkit
 
-| Layer      | What I reach for                                                    |
-| ---------- | ------------------------------------------------------------------- |
-| Languages  | PHP, MySQL, vanilla JavaScript, HTML/CSS                            |
-| CMS        | WordPress (21 years), custom plugins, ACF, WP-CLI                   |
-| Data & SEO | schema.org / JSON-LD, PDO, Leaflet, structured-data auditing        |
-| Quality    | GitHub Actions CI, fixture-based self-tests, zero-dependency design |
+| Layer | What I reach for |
+|---|---|
+| Languages | PHP, vanilla JavaScript, MySQL, JSON, Bash/Shell, HTML/CSS |
+| CMS | WordPress (21 years), custom plugins, ACF, WP-CLI |
+| Data & SEO | schema.org / JSON-LD, PDO, Leaflet, structured-data auditing |
+| Quality | GitHub Actions CI, fixture-based self-tests, zero-dependency design |
 
 Find me
 
