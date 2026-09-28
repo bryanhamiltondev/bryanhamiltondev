@@ -39,9 +39,18 @@ problem from The DJ Calendar and publishes the pattern, not the infrastructure:
 - The DJ Calendar - electronic music event discovery: Leaflet-based city maps,
   8-bar sensory equalizer, newsletter infra, and a homegrown SEO/schema pipeline.
 
+  
 The toolkit
+
+| Layer      | What I reach for                                                    |
+| ---------- | ------------------------------------------------------------------- |
+| Languages  | PHP, MySQL, vanilla JavaScript, HTML/CSS                            |
+| CMS        | WordPress (21 years), custom plugins, ACF, WP-CLI                   |
+| Data & SEO | schema.org / JSON-LD, PDO, Leaflet, structured-data auditing        |
+| Quality    | GitHub Actions CI, fixture-based self-tests, zero-dependency design |
 
 Find me
 
- (https://thedjcalendar.com)
- (mailto:bryan_hamilton@me.com)
+- The DJ Calendar (https://thedjcalendar.com) - electronic music event discovery, live in production
+- LinkedIn (https://www.linkedin.com/in/bryanhamilton-nj)
+- bryan_hamilton@me.com (mailto:bryan_hamilton@me.com)
