@@ -34,6 +34,11 @@ problem from The DJ Calendar and publishes the pattern, not the infrastructure:
   WordPress plugin port of the schema auditor: WP-CLI command, admin Tools page,
   and a CI self-test that asserts both the pass and fail directions against real
   fixtures.
+- next-show-radar (https://github.com/bryanhamiltondev/next-show-radar) -
+  The geolocation-aware tour map from the platform: consent-first geolocation with
+  a documented deny contract (global view + announced fallback), haversine radius
+  fitting, and race-safe Leaflet boot. Pairs with sri-lazy-loader, which brings
+  the map engine in safely.
 - eq-visualizer (https://github.com/bryanhamiltondev/eq-visualizer) -
   The 8-bar sensory equalizer from the artist pages, extracted as a zero-dependency
   widget: pure CSS animation, an optional 1 KB injector, and reduced-motion respect
