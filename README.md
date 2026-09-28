@@ -34,10 +34,14 @@ problem from The DJ Calendar and publishes the pattern, not the infrastructure:
   WordPress plugin port of the schema auditor: WP-CLI command, admin Tools page,
   and a CI self-test that asserts both the pass and fail directions against real
   fixtures.
+- eq-visualizer (https://github.com/bryanhamiltondev/eq-visualizer) -
+  The 8-bar sensory equalizer from the artist pages, extracted as a zero-dependency
+  widget: pure CSS animation, an optional 1 KB injector, and reduced-motion respect
+  built in.
 - In progress: an ingestion-pipeline excerpt covering tour-date normalization
   and dedupe.
 - The DJ Calendar - electronic music event discovery: Leaflet-based city maps,
-  8-bar sensory equalizer, newsletter infra, and a homegrown SEO/schema pipeline.
+  newsletter infra, and a homegrown SEO/schema pipeline.
 
 The toolkit
 
