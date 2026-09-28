@@ -17,6 +17,11 @@ What I'm working on
 A series of small, production-derived repos - each one isolates a single engineering
 problem from The DJ Calendar and publishes the pattern, not the infrastructure:
 
+- instant-search-index (https://github.com/bryanhamiltondev/instant-search-index) -
+  Instant client-side search from a prebuilt JSON index: scored matching (AND
+  semantics, weighted fields, phrase bonus), a fully ARIA-wired combobox, and
+  keyboard-first navigation. Runs site search across ~1,000 pages with no search
+  server and no library - one file, zero round-trips.
 - jsonld-schema-audit (https://github.com/bryanhamiltondev/jsonld-schema-audit) -
   Zero-dependency PHP CLI that audits JSON-LD structured data: validates required
   properties per schema.org type, resolves every internal @id reference, and fails
