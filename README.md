@@ -15,7 +15,7 @@
 
 <br>
 
-I've been building for the web since the late 90s — KPMG back-office systems, NY Daily News CMS, OUTFRONT Media reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
+I've been building for the web since the late 90s - KPMG back-office systems, NY Daily News CMS, OUTFRONT Media reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
 
 **Every repo here is extracted from production code.** Not a tutorial. Not a boilerplate. The actual thing, cleaned and documented.
 
@@ -40,9 +40,9 @@ I've been building for the web since the late 90s — KPMG back-office systems, 
 ### [resume-hub](https://github.com/bryanhamiltondev/resume-hub)
 
 **The landing page that powers [bryanhamilton.info](https://bryanhamilton.info).**  
-8-act jQuery animation suite — particle network, typewriter, 3D card tilt, staggered entrance chain. One file, zero dependencies beyond jQuery. The portfolio anchor that ties everything together.
+8-act jQuery animation suite - particle network, typewriter, 3D card tilt, staggered entrance chain. One file, zero dependencies beyond jQuery. The portfolio anchor that ties everything together.
 
-[`bryanhamilton.info` →](https://bryanhamilton.info)
+[`bryanhamilton.info` ->](https://bryanhamilton.info)
 
 </td>
 <td width="50%" align="center">
@@ -52,7 +52,7 @@ I've been building for the web since the late 90s — KPMG back-office systems, 
 **Hover preview with live audio + reactive EQ.**  
 30-second iTunes preview plays via Web Audio API analyser. 8 canvas bars driven by real frequency data. Touch toggle. Reduced-motion-aware. Consent-first autoplay gate.
 
-[`Live demo` →](https://bryanhamiltondev.github.io/dj-card-preview/)
+[`Live demo` ->](https://bryanhamiltondev.github.io/dj-card-preview/)
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ I've been building for the web since the late 90s — KPMG back-office systems, 
 
 ## The DJ Calendar Ecosystem
 
-*Everything that powers [thedjcalendar.com](https://thedjcalendar.com) — extracted as patterns.*
+*Everything that powers [thedjcalendar.com](https://thedjcalendar.com) - extracted as patterns.*
 
 </div>
 
@@ -247,8 +247,8 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 <div align="center">
 
-**Text preferred** · <a href="sms:+12014063595">(201) 406-3595</a>  
-<a href="mailto:bryan_hamilton@me.com">bryan_hamilton@me.com</a> · <a href="https://www.linkedin.com/in/bryanhamilton-nj">linkedin.com/in/bryanhamilton-nj</a>
+**Text preferred** - <a href="sms:+12014063595">(201) 406-3595</a>  
+<a href="mailto:bryan_hamilton@me.com">bryan_hamilton@me.com</a> - <a href="https://www.linkedin.com/in/bryanhamilton-nj">linkedin.com/in/bryanhamilton-nj</a>
 
 <sub>*Built with PHP, vanilla JS, and the conviction that the best code is the code you don't have to install.*</sub>
 
