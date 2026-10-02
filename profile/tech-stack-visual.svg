@@ -11,13 +11,13 @@
   <rect x="10" y="10" width="140" height="80" rx="8" fill="url(#cardBg)" stroke="#30363d" stroke-width="1"/>
   <rect x="10" y="10" width="140" height="3" rx="1.5" fill="#787CB5"/>
   <text x="80" y="48" fill="#787CB5" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" text-anchor="middle">PHP</text>
-  <text x="80" y="66" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11" text-anchor="middle">21+ Years &amp;middot; PDO &amp; Composer</text>
+  <text x="80" y="66" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11" text-anchor="middle">21+ Years · PDO &amp; Composer</text>
   
   <!-- Vanilla JS Card -->
   <rect x="170" y="10" width="140" height="80" rx="8" fill="url(#cardBg)" stroke="#30363d" stroke-width="1"/>
   <rect x="170" y="10" width="140" height="3" rx="1.5" fill="#F7DF1E"/>
   <text x="240" y="48" fill="#F7DF1E" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" text-anchor="middle">Vanilla JS</text>
-  <text x="240" y="66" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11" text-anchor="middle">Zero Deps &amp;middot; Web Audio &amp; Canvas</text>
+  <text x="240" y="66" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11" text-anchor="middle">Zero Deps · Web Audio &amp; Canvas</text>
   
   <!-- MySQL Card -->
   <rect x="330" y="10" width="140" height="80" rx="8" fill="url(#cardBg)" stroke="#30363d" stroke-width="1"/>

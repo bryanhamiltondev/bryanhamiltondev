@@ -34,7 +34,7 @@
   
   <!-- Subtitle -->
   <text x="80" y="98" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="500" letter-spacing="3.5">
-    PHP &amp; VANILLA JS ENGINEER  &amp;middot;  FOUNDER @ THE DJ CALENDAR
+    PHP &amp; VANILLA JS ENGINEER · FOUNDER @ THE DJ CALENDAR
   </text>
   
   <!-- Name - plain white, no glow -->
@@ -79,7 +79,7 @@
   </text>
   
   <text x="660" y="182" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="400" letter-spacing="1">
-    Remote &amp;middot; NJ/NY Metro
+    Remote · NJ/NY Metro
   </text>
   
   <text x="660" y="197" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="400" letter-spacing="1">
