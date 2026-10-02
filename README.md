@@ -12,13 +12,19 @@
 ---
 
 > **Same guy. Two ways to hire him.**  
-> <a href="https://thedjcalendar.com/resume/bryan-hamilton-tech.html">Full-Stack Engineer</a> &middot; <a href="https://thedjcalendar.com/resume/bryan-hamilton-retail.html">Service &amp; Retail</a>
+> <a href="https://thedjcalendar.com/resume/bryan-hamilton-tech.html">&larrk; Full-Stack Engineer</a> &middot; <a href="https://thedjcalendar.com/resume/bryan-hamilton-retail.html">Service &amp; Retail &rarrk;</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-00d2ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to work">
 
 </div>
 
 I've been building for the web since the late 90s &mdash; KPMG back-office systems, NY Daily News CMS, OUTFRONT Media reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
 
 **Every repo here is extracted from production code.** Not a tutorial. Not a boilerplate. The actual thing, cleaned and documented.
+
+**Currently looking for:** full-stack web engineering roles, PHP/JavaScript-focused, remote or NJ/NY metro. Also open to senior individual contributor or lead developer positions where I can ship production code and mentor junior engineers.
 
 <br>
 
@@ -97,6 +103,7 @@ Geolocation-aware tour map. Consent-first, haversine radius, race-safe Leaflet b
 <td width="33%" align="center">
 
 #### [tour-feed-pipeline](https://github.com/bryanhamiltondev/tour-feed-pipeline)
+[![CI](https://github.com/bryanhamiltondev/tour-feed-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/bryanhamiltondev/tour-feed-pipeline/actions/workflows/ci.yml)
 
 Bandsintown + Ticketmaster feeds normalized into one row shape, deduped, cached, pruned. CI-tested PHP 8.
 
@@ -115,6 +122,7 @@ Bandsintown + Ticketmaster feeds normalized into one row shape, deduped, cached,
 <td width="33%" align="center">
 
 #### [sri-lazy-loader](https://github.com/bryanhamiltondev/sri-lazy-loader)
+[![CI](https://github.com/bryanhamiltondev/sri-lazy-loader/actions/workflows/ci.yml/badge.svg)](https://github.com/bryanhamiltondev/sri-lazy-loader/actions/workflows/ci.yml)
 
 Race-safe lazy script loader with Subresource Integrity. Concurrent-caller dedupe, timeout + cleanup. What loads Leaflet safely.
 
@@ -137,6 +145,7 @@ Race-safe lazy script loader with Subresource Integrity. Concurrent-caller dedup
 <td width="50%" align="center">
 
 #### [jsonld-schema-audit](https://github.com/bryanhamiltondev/jsonld-schema-audit)
+[![CI](https://github.com/bryanhamiltondev/jsonld-schema-audit/actions/workflows/audit.yml/badge.svg)](https://github.com/bryanhamiltondev/jsonld-schema-audit/actions/workflows/audit.yml)
 
 Zero-dependency PHP CLI that audits JSON-LD across your content. Validates required properties per schema.org type, resolves `@id` references, fails CI on regressions. **Took The DJ Calendar from hundreds of Rich Results warnings to zero.**
 
@@ -146,6 +155,7 @@ Zero-dependency PHP CLI that audits JSON-LD across your content. Validates requi
 <td width="50%" align="center">
 
 #### [wp-schema-audit](https://github.com/bryanhamiltondev/wp-schema-audit)
+[![CI](https://github.com/bryanhamiltondev/wp-schema-audit/actions/workflows/audit.yml/badge.svg)](https://github.com/bryanhamiltondev/wp-schema-audit/actions/workflows/audit.yml)
 
 WordPress plugin port of the schema auditor. WP-CLI command, admin Tools page, CI self-test with pass/fail fixtures. Zero dependencies.
 
@@ -157,6 +167,7 @@ WordPress plugin port of the schema auditor. WP-CLI command, admin Tools page, C
 <td width="50%" align="center">
 
 #### [event-calendar-schema](https://github.com/bryanhamiltondev/event-calendar-schema)
+[![CI](https://github.com/bryanhamiltondev/event-calendar-schema/actions/workflows/ci.yml/badge.svg)](https://github.com/bryanhamiltondev/event-calendar-schema/actions/workflows/ci.yml)
 
 MySQL schema + PDO repository for an event calendar. Idempotent event upserts, double opt-in subscribers, query-shaped indexes. Inline design decisions.
 
@@ -166,6 +177,7 @@ MySQL schema + PDO repository for an event calendar. Idempotent event upserts, d
 <td width="50%" align="center">
 
 #### [csrf-json-fetch](https://github.com/bryanhamiltondev/csrf-json-fetch)
+[![CI](https://github.com/bryanhamiltondev/csrf-json-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/bryanhamiltondev/csrf-json-fetch/actions/workflows/ci.yml)
 
 Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual injection, single-retry on expiry, typed errors.
 
@@ -187,6 +199,7 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 | **CMS** | WordPress since 2004, custom plugins, ACF, WP-CLI |
 | **Data &amp; SEO** | schema.org / JSON-LD, PDO, Leaflet, structured-data auditing |
 | **Quality** | GitHub Actions CI, fixture-based self-tests, zero-dependency by conviction |
+| **Tools** | Git, FTP/SSH, phpMyAdmin, RegEx, browser DevTools, VSCode |
 
 <br>
 
