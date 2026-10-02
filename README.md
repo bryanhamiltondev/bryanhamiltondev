@@ -1,24 +1,21 @@
 <div align="center">
 
-# Bryan Hamilton
+<img src="profile/hero-banner.svg" alt="Bryan Hamilton - PHP & Vanilla JS Engineer" width="100%">
 
-**PHP & vanilla JS engineer** &middot; **Founder, The DJ Calendar** &middot; **Rochelle Park, NJ**
+<br><br>
 
-[![Resume](https://img.shields.io/badge/Resume-thedjcalendar.com%2Fresume-00d2ff?style=flat-square&logo=googlechrome&logoColor=white)](https://thedjcalendar.com/resume/)
-[![The DJ Calendar](https://img.shields.io/badge/The_DJ_Calendar-ff6b35?style=flat-square&logo=googlechrome&logoColor=white)](https://thedjcalendar.com)
-[![GitHub](https://img.shields.io/badge/10_repos_production--derived-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/bryanhamiltondev?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanhamilton-nj)
-
----
-
-> **Same guy. Two ways to hire him.**  
-> <a href="https://thedjcalendar.com/resume/bryan-hamilton-tech.html">Full-Stack Engineer</a> &middot; <a href="https://thedjcalendar.com/resume/bryan-hamilton-retail.html">Service &amp; Retail</a>
+<a href="https://thedjcalendar.com/resume/"><img src="https://img.shields.io/badge/Resume-thedjcalendar.com%2Fresume-00d2ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Resume"></a>
+<a href="https://thedjcalendar.com"><img src="https://img.shields.io/badge/The_DJ_Calendar-ff6b35?style=flat-square&logo=googlechrome&logoColor=white" alt="The DJ Calendar"></a>
+<a href="https://github.com/bryanhamiltondev?tab=repositories"><img src="https://img.shields.io/badge/10_repos_production--derived-24292f?style=flat-square&logo=github&logoColor=white" alt="10 repos"></a>
+<a href="https://www.linkedin.com/in/bryanhamilton-nj"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-00d2ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to work">
-
 </div>
+
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
 
 I've been building for the web since the late 90s &mdash; KPMG back-office systems, NY Daily News CMS, OUTFRONT Media reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
 
@@ -28,11 +25,13 @@ I've been building for the web since the late 90s &mdash; KPMG back-office syste
 
 <br>
 
----
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
 
 <div align="center">
 
-### &star; Featured
+## &star; Featured
 
 </div>
 
@@ -40,7 +39,7 @@ I've been building for the web since the late 90s &mdash; KPMG back-office syste
 <tr>
 <td width="50%" align="center">
 
-#### [resume-hub](https://github.com/bryanhamiltondev/resume-hub)
+### [resume-hub](https://github.com/bryanhamiltondev/resume-hub)
 
 **The landing page that powers [bryanhamilton.info](https://bryanhamilton.info).**  
 8-act jQuery animation suite &mdash; particle network, typewriter, 3D card tilt, staggered entrance chain. One file, zero dependencies beyond jQuery. The portfolio anchor that ties everything together.
@@ -50,7 +49,7 @@ I've been building for the web since the late 90s &mdash; KPMG back-office syste
 </td>
 <td width="50%" align="center">
 
-#### [dj-card-preview](https://github.com/bryanhamiltondev/dj-card-preview)
+### [dj-card-preview](https://github.com/bryanhamiltondev/dj-card-preview)
 
 **Hover preview with live audio + reactive EQ.**  
 30-second iTunes preview plays via Web Audio API analyser. 8 canvas bars driven by real frequency data. Touch toggle. Reduced-motion-aware. Consent-first autoplay gate.
@@ -63,11 +62,17 @@ I've been building for the web since the late 90s &mdash; KPMG back-office syste
 
 <br>
 
----
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
+
+<div align="center">
 
 ## The DJ Calendar Ecosystem
 
 *Everything that powers [thedjcalendar.com](https://thedjcalendar.com) &mdash; extracted as patterns.*
+
+</div>
 
 <table>
 <tr>
@@ -134,11 +139,17 @@ Race-safe lazy script loader with Subresource Integrity. Concurrent-caller dedup
 
 <br>
 
----
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
+
+<div align="center">
 
 ## Schema &amp; SEO Tooling
 
 *Because structured data isn't set-and-forget.*
+
+</div>
 
 <table>
 <tr>
@@ -189,9 +200,19 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 <br>
 
----
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
+
+<div align="center">
 
 ## The Toolbox
+
+</div>
+
+<img src="profile/tech-stack-visual.svg" alt="Tech Stack: PHP, Vanilla JS, MySQL, SEO, CSS" width="100%">
+
+<br>
 
 | Layer | What I reach for |
 |-------|------------------|
@@ -203,7 +224,28 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 <br>
 
----
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
+
+<div align="center">
+
+## GitHub Pulse
+
+<a href="https://github-readme-stats.vercel.app/api?username=bryanhamiltondev&show_icons=true&theme=dark&bg_color=0d1117&text_color=e6edf3&icon_color=00d2ff&title_color=00d2ff&border_color=30363d&hide_rank=true&hide=contribs">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bryanhamiltondev&show_icons=true&theme=dark&bg_color=0d1117&text_color=e6edf3&icon_color=00d2ff&title_color=00d2ff&border_color=30363d&hide_rank=true&hide=contribs" alt="GitHub Stats">
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanhamiltondev&layout=compact&theme=dark&bg_color=0d1117&text_color=e6edf3&title_color=00d2ff&border_color=30363d&langs_count=6">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanhamiltondev&layout=compact&theme=dark&bg_color=0d1117&text_color=e6edf3&title_color=00d2ff&border_color=30363d&langs_count=6" alt="Top Languages">
+</a>
+
+</div>
+
+<br>
+
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
 
 <div align="center">
 
