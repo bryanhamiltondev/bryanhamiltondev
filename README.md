@@ -27,10 +27,6 @@ I've been building for the web since the late 90s - KPMG back-office systems, NY
 
 <br>
 
-<img src="profile/divider-eq.svg" alt="" width="100%">
-
-<br>
-
 <div align="center">
 
 ## Featured
