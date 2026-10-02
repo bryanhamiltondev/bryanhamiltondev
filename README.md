@@ -13,7 +13,8 @@
 
 <img src="https://www.thedjcalendar.com/_img/bryan-hamilton.jpg" alt="Bryan Hamilton" width="105" height="105" style="border-radius:50%;border:2.5px solid #00d2ff;object-fit:cover;box-shadow:0 0 20px rgba(0,210,255,.15)">
 
-**21+ years shipping PHP and vanilla JS into production. Ten repos extracted verbatim from live code. No frameworks. No tutorials.**
+**21+ years shipping PHP and vanilla JS into production. 
+Ten repos extracted verbatim from live code. No frameworks. No tutorials.**
 
 </div>
 
