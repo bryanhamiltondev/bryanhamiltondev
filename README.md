@@ -8,6 +8,13 @@
 <a href="https://thedjcalendar.com"><img src="https://img.shields.io/badge/The_DJ_Calendar-ff6b35?style=flat-square&logo=googlechrome&logoColor=white" alt="The DJ Calendar"></a>
 <a href="https://github.com/bryanhamiltondev?tab=repositories"><img src="https://img.shields.io/badge/10_repos_production--derived-24292f?style=flat-square&logo=github&logoColor=white" alt="10 repos"></a>
 <a href="https://www.linkedin.com/in/bryanhamilton-nj"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<br><br>
+
+<img src="https://www.thedjcalendar.com/_img/bryan-hamilton.jpg" alt="Bryan Hamilton" width="105" height="105" style="border-radius:50%;border:2.5px solid #00d2ff;object-fit:cover;box-shadow:0 0 20px rgba(0,210,255,.15)">
+
+**21+ years shipping PHP and vanilla JS into production. Ten repos extracted verbatim from live code. No frameworks. No tutorials.**
+
 </div>
 
 <br>
@@ -18,6 +25,8 @@ I've been building for the web since the late 90s - KPMG back-office systems, NY
 
 **Currently looking for:** full-stack web engineering roles, PHP/JavaScript-focused, remote or NJ/NY metro. Also open to senior individual contributor or lead developer positions where I can ship production code and mentor junior engineers.
 
+> **Currently building:** The DJ Calendar Newsletter system - double opt-in subscriber management, PDO-driven, for artist alerts and venue announcements.
+
 <br>
 
 <img src="profile/divider-eq.svg" alt="" width="100%">
@@ -26,13 +35,9 @@ I've been building for the web since the late 90s - KPMG back-office systems, NY
 
 <div align="center">
 
-## ★ Featured
+## Featured
 
 </div>
-
-<table>
-<tr>
-<td width="50%" align="center">
 
 ### [resume-hub](https://github.com/bryanhamiltondev/resume-hub)
 
@@ -40,20 +45,6 @@ I've been building for the web since the late 90s - KPMG back-office systems, NY
 8-act jQuery animation suite - particle network, typewriter, 3D card tilt, staggered entrance chain. One file, zero dependencies beyond jQuery. The portfolio anchor that ties everything together.
 
 [`bryanhamilton.info` ->](https://bryanhamilton.info)
-
-</td>
-<td width="50%" align="center">
-
-### [dj-card-preview](https://github.com/bryanhamiltondev/dj-card-preview)
-
-**Hover preview with live audio + reactive EQ.**  
-30-second iTunes preview plays via Web Audio API analyser. 8 canvas bars driven by real frequency data. Touch toggle. Reduced-motion-aware. Consent-first autoplay gate.
-
-[`Live demo` ->](https://bryanhamiltondev.github.io/dj-card-preview/)
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -232,6 +223,12 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanhamiltondev&layout=compact&theme=dark&bg_color=0d1117&text_color=e6edf3&title_color=00d2ff&border_color=30363d&langs_count=6">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanhamiltondev&layout=compact&theme=dark&bg_color=0d1117&text_color=e6edf3&title_color=00d2ff&border_color=30363d&langs_count=6" alt="Top Languages">
+</a>
+
+<br><br>
+
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=bryanhamiltondev&theme=github-dark&bg_color=0d1117&color=00d2ff&line=00d2ff&point=00d2ff&area=true&hide_border=true">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bryanhamiltondev&theme=github-dark&bg_color=0d1117&color=00d2ff&line=00d2ff&point=00d2ff&area=true&hide_border=true" alt="Contribution Activity Graph">
 </a>
 
 </div>
