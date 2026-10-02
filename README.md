@@ -10,9 +10,6 @@
 <a href="https://www.linkedin.com/in/bryanhamilton-nj"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br><br>
-
-<img src="https://www.thedjcalendar.com/_img/bryan-hamilton.jpg" alt="Bryan Hamilton" width="105" height="105" style="border-radius:50%;border:2.5px solid #00d2ff;object-fit:cover;box-shadow:0 0 20px rgba(0,210,255,.15)">
-
 **21+ years shipping PHP and vanilla JS into production. <br>
 Ten repos extracted verbatim from live code. No frameworks. No tutorials.**
 
