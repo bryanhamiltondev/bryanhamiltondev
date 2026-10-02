@@ -13,8 +13,6 @@
 
 </div>
 
-<img src="profile/divider-eq.svg" alt="" width="100%">
-
 <br>
 
 I've been building for the web since the late 90s &mdash; KPMG back-office systems, NY Daily News CMS, OUTFRONT Media reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
