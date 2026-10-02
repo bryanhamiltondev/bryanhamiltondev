@@ -15,7 +15,7 @@
 
 <br>
 
-I've been building for the web since the late 90s &mdash; KPMG back-office systems, NY Daily News CMS, OUTFRONT Media reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
+I've been building for the web since the late 90s — KPMG back-office systems, NY Daily News CMS, OUTFRONT Media reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
 
 **Every repo here is extracted from production code.** Not a tutorial. Not a boilerplate. The actual thing, cleaned and documented.
 
@@ -29,7 +29,7 @@ I've been building for the web since the late 90s &mdash; KPMG back-office syste
 
 <div align="center">
 
-## &star; Featured
+## ★ Featured
 
 </div>
 
@@ -40,9 +40,9 @@ I've been building for the web since the late 90s &mdash; KPMG back-office syste
 ### [resume-hub](https://github.com/bryanhamiltondev/resume-hub)
 
 **The landing page that powers [bryanhamilton.info](https://bryanhamilton.info).**  
-8-act jQuery animation suite &mdash; particle network, typewriter, 3D card tilt, staggered entrance chain. One file, zero dependencies beyond jQuery. The portfolio anchor that ties everything together.
+8-act jQuery animation suite — particle network, typewriter, 3D card tilt, staggered entrance chain. One file, zero dependencies beyond jQuery. The portfolio anchor that ties everything together.
 
-[`bryanhamilton.info` &rarr;](https://bryanhamilton.info)
+[`bryanhamilton.info` →](https://bryanhamilton.info)
 
 </td>
 <td width="50%" align="center">
@@ -52,7 +52,7 @@ I've been building for the web since the late 90s &mdash; KPMG back-office syste
 **Hover preview with live audio + reactive EQ.**  
 30-second iTunes preview plays via Web Audio API analyser. 8 canvas bars driven by real frequency data. Touch toggle. Reduced-motion-aware. Consent-first autoplay gate.
 
-[`Live demo` &rarr;](https://bryanhamiltondev.github.io/dj-card-preview/)
+[`Live demo` →](https://bryanhamiltondev.github.io/dj-card-preview/)
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ I've been building for the web since the late 90s &mdash; KPMG back-office syste
 
 ## The DJ Calendar Ecosystem
 
-*Everything that powers [thedjcalendar.com](https://thedjcalendar.com) &mdash; extracted as patterns.*
+*Everything that powers [thedjcalendar.com](https://thedjcalendar.com) — extracted as patterns.*
 
 </div>
 
@@ -143,7 +143,7 @@ Race-safe lazy script loader with Subresource Integrity. Concurrent-caller dedup
 
 <div align="center">
 
-## Schema &amp; SEO Tooling
+## Schema & SEO Tooling
 
 *Because structured data isn't set-and-forget.*
 
@@ -216,7 +216,7 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 |-------|------------------|
 | **Languages** | PHP (21+ years), JavaScript (vanilla), MySQL, JSON, Bash, HTML/CSS |
 | **CMS** | WordPress since 2004, custom plugins, ACF, WP-CLI |
-| **Data &amp; SEO** | schema.org / JSON-LD, PDO, Leaflet, structured-data auditing |
+| **Data & SEO** | schema.org / JSON-LD, PDO, Leaflet, structured-data auditing |
 | **Quality** | GitHub Actions CI, fixture-based self-tests, zero-dependency by conviction |
 | **Tools** | Git, FTP/SSH, phpMyAdmin, RegEx, browser DevTools, VSCode |
 
@@ -247,8 +247,8 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 <div align="center">
 
-**Text preferred** &middot; <a href="sms:+12014063595">(201) 406-3595</a>  
-<a href="mailto:bryan_hamilton@me.com">bryan_hamilton@me.com</a> &middot; <a href="https://www.linkedin.com/in/bryanhamilton-nj">linkedin.com/in/bryanhamilton-nj</a>
+**Text preferred** · <a href="sms:+12014063595">(201) 406-3595</a>  
+<a href="mailto:bryan_hamilton@me.com">bryan_hamilton@me.com</a> · <a href="https://www.linkedin.com/in/bryanhamilton-nj">linkedin.com/in/bryanhamilton-nj</a>
 
 <sub>*Built with PHP, vanilla JS, and the conviction that the best code is the code you don't have to install.*</sub>
 
