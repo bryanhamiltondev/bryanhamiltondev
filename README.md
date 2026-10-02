@@ -12,7 +12,7 @@
 ---
 
 > **Same guy. Two ways to hire him.**  
-> <a href="https://thedjcalendar.com/resume/bryan-hamilton-tech.html">&larrk; Full-Stack Engineer</a> &middot; <a href="https://thedjcalendar.com/resume/bryan-hamilton-retail.html">Service &amp; Retail &rarrk;</a>
+> <a href="https://thedjcalendar.com/resume/bryan-hamilton-tech.html">Full-Stack Engineer</a> &middot; <a href="https://thedjcalendar.com/resume/bryan-hamilton-retail.html">Service &amp; Retail</a>
 
 </div>
 
