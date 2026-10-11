@@ -4,24 +4,26 @@
 
 <br><br>
 
-<a href="https://thedjcalendar.com/resume/"><img src="https://img.shields.io/badge/Resume-thedjcalendar.com%2Fresume-00d2ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Resume"></a>
+<a href="https://bryanhamilton.info"><img src="https://img.shields.io/badge/Portfolio-bryanhamilton.info-00d2ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: bryanhamilton.info"></a>
+<a href="https://bryanhamilton.info/bryan-hamilton-tech.html"><img src="https://img.shields.io/badge/Resume-Full--Stack_Web_Engineer-24292f?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://calendly.com/hello-bryanhamilton/30min"><img src="https://img.shields.io/badge/Book_a_15--min_call-3ddc84?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a 15-minute call"></a>
+<a href="https://www.linkedin.com/in/bryanhamiltondev"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://thedjcalendar.com"><img src="https://img.shields.io/badge/The_DJ_Calendar-ff6b35?style=flat-square&logo=googlechrome&logoColor=white" alt="The DJ Calendar"></a>
-<a href="https://github.com/bryanhamiltondev?tab=repositories"><img src="https://img.shields.io/badge/10_repos_production--derived-24292f?style=flat-square&logo=github&logoColor=white" alt="10 repos"></a>
-<a href="https://www.linkedin.com/in/bryanhamilton-nj"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br><br>
-**21+ years shipping PHP and vanilla JS into production. <br>
-Ten repos extracted verbatim from live code. No frameworks. No tutorials.**
+
+**25+ years building for the web in PHP and vanilla JavaScript. <br>
+Ten repos extracted from live production code. No frameworks. No tutorials.**
 
 </div>
 
 <br>
 
-I've been building for the web since the late 90s - KPMG back-office systems, NY Daily News CMS, OUTFRONT Media reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
+I've been building for the web since the late '90s: KPMG back-office systems, the NY Daily News CMS through four full redesigns, Jackson Hewitt's CMS migration, Cellebrite's marketing platform, and OUTFRONT Media apps reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
 
 **Every repo here is extracted from production code.** Not a tutorial. Not a boilerplate. The actual thing, cleaned and documented.
 
-**Currently looking for:** full-stack web engineering roles, PHP/JavaScript-focused, remote or NJ/NY metro. Also open to senior individual contributor or lead developer positions where I can ship production code and mentor junior engineers.
+**Open to work, available immediately:** full-stack web engineering roles, PHP/JavaScript-focused. Remote, hybrid or on-site anywhere in the NYC metro area, including Manhattan. Also open to senior individual contributor or lead developer positions where I can ship production code and mentor junior engineers.
 
 > **Currently building:** The DJ Calendar Newsletter system - double opt-in subscriber management, PDO-driven, for artist alerts and venue announcements.
 
@@ -33,10 +35,10 @@ I've been building for the web since the late 90s - KPMG back-office systems, NY
 
 </div>
 
-### [resume-hub](https://github.com/bryanhamiltondev/resume-hub)
+### [bryanhamilton.info](https://bryanhamilton.info)
 
-**The landing page that powers [bryanhamilton.info](https://bryanhamilton.info).**  
-8-act jQuery animation suite - particle network, typewriter, 3D card tilt, staggered entrance chain. One file, zero dependencies beyond jQuery. The portfolio anchor that ties everything together.
+**My portfolio: one hand-tuned page, two ways to hire me.**
+Plain vanilla JavaScript, no frameworks. Live, working demos of six of the repos below, an animated career timeline, a page search built on `instant-search-index`, and PageSpeed Insights scores of **99 / 100 / 100 / 100**. Open your browser console when you visit. 👀
 
 [`bryanhamilton.info` ->](https://bryanhamilton.info)
 
@@ -186,6 +188,26 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 <div align="center">
 
+## What people say
+
+</div>
+
+> *"Bryan has a masterful ability to problem-solve complex scenarios, and was a driving force in creating our latest website."*
+> **Matt Bishop**, Brand Experience Consultant @ MWB (client)
+
+> *"He has an exceptional troubleshooting and analytical skill in Web technologies."*
+> **Ashwin Mekala**, Front End Developer (worked together on the same team)
+
+<sub>[Read the full recommendations on LinkedIn ->](https://www.linkedin.com/in/bryanhamiltondev/details/recommendations/)</sub>
+
+<br>
+
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
+
+<div align="center">
+
 ## The Toolbox
 
 </div>
@@ -235,8 +257,9 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 <div align="center">
 
-**Text preferred** - <a href="sms:+12014063595">(201) 406-3595</a>  
-<a href="mailto:hello@bryanhamilton.info">hello@bryanhamilton.info</a> - <a href="https://www.linkedin.com/in/bryanhamilton-nj">linkedin.com/in/bryanhamilton-nj</a>
+**[bryanhamilton.info](https://bryanhamilton.info)** - Full-stack web engineer, Rochelle Park, NJ
+
+<a href="mailto:hello@bryanhamilton.info">hello@bryanhamilton.info</a> - <a href="tel:+15513787780">551-378-7780</a> - <a href="https://calendly.com/hello-bryanhamilton/30min">Book a 15-min call</a> - <a href="https://www.linkedin.com/in/bryanhamiltondev">linkedin.com/in/bryanhamiltondev</a>
 
 <sub>*Built with PHP, vanilla JS, and the conviction that the best code is the code you don't have to install.*</sub>
 
