@@ -127,6 +127,43 @@ Race-safe lazy script loader with Subresource Integrity. Concurrent-caller dedup
 
 <div align="center">
 
+## Open Source Tools
+
+*Extracted and published so other people can use them, not just admire them.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### [guarded-deploy-workers](https://github.com/bryanhamiltondev/guarded-deploy-workers)
+
+Token-gated, self-verifying, self-deleting PHP patch workers for shared hosting. The deploy pattern that keeps a 1,000-page production site alive without shell access. [18-rule pre-flight checklist](https://github.com/bryanhamiltondev/guarded-deploy-workers/blob/main/docs/checklist.md) included.
+
+`#php` `#deployment` `#shared-hosting`
+
+</td>
+<td width="50%" align="center">
+
+#### [led-commit-wall](https://github.com/bryanhamiltondev/led-commit-wall)
+
+The LED Bay from [bryanhamilton.info](https://bryanhamilton.info): contribution activity rendered as an LED wall, with hover tooltips and a live GitHub Pages demo.
+
+`#javascript` `#canvas` `#github-api`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
+
+<div align="center">
+
 ## Schema & SEO Tooling
 
 *Because structured data isn't set-and-forget.*
