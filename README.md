@@ -298,6 +298,8 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 <a href="mailto:hello@bryanhamilton.info">hello@bryanhamilton.info</a> - <a href="tel:+15514095206">(551) 409-5206</a> - <a href="https://calendly.com/hello-bryanhamilton/30min">Book a 15-min call</a> - <a href="https://www.linkedin.com/in/bryanhamiltondev">linkedin.com/in/bryanhamiltondev</a>
 
+🔗 <a href="https://bryanhamiltondev.github.io/bryanhamiltondev/">Link hub</a>
+
 <sub>*Built with PHP, vanilla JS, and the conviction that the best code is the code you don't have to install.*</sub>
 
 </div>
