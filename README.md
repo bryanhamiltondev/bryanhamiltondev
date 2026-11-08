@@ -6,9 +6,9 @@
 
 <a href="https://bryanhamilton.info"><img src="https://img.shields.io/badge/Portfolio-bryanhamilton.info-00d2ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: bryanhamilton.info"></a>
 <a href="https://bryanhamilton.info/bryan-hamilton-tech.html"><img src="https://img.shields.io/badge/Resume-Full--Stack_Web_Engineer-24292f?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
-<a href="https://calendly.com/hello-bryanhamilton/30min"><img src="https://img.shields.io/badge/Book_a_15--min_call-3ddc84?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a 15-minute call"></a>
+<a href="https://calendly.com/hello-bryanhamilton/meet-and-greet"><img src="https://img.shields.io/badge/Book_a_15--min_call-3ddc84?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a 15-minute call"></a>
 <a href="https://www.linkedin.com/in/bryanhamiltondev"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://thedjcalendar.com"><img src="https://img.shields.io/badge/The_DJ_Calendar-ff6b35?style=flat-square&logo=googlechrome&logoColor=white" alt="The DJ Calendar"></a>
+<a href="https://bryanhamilton.info/projects"><img src="https://img.shields.io/badge/The_DJ_Calendar-ff6b35?style=flat-square&logo=googlechrome&logoColor=white" alt="The DJ Calendar"></a>
 
 <br><br>
 
@@ -19,7 +19,7 @@ Ten repos extracted from live production code. No frameworks. No tutorials.**
 
 <br>
 
-I've been building for the web since the late '90s: KPMG back-office systems, the NY Daily News CMS through four full redesigns, Jackson Hewitt's CMS migration, Cellebrite's marketing platform, and OUTFRONT Media apps reaching millions of commuters daily. Today I run [The DJ Calendar](https://thedjcalendar.com), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
+I've been building for the web since the late '90s: KPMG back-office systems, the NY Daily News CMS through four full redesigns, Jackson Hewitt's CMS migration, Cellebrite's marketing platform, and OUTFRONT Media apps reaching millions of commuters daily. Today I run [The DJ Calendar](https://bryanhamilton.info/projects), an electronic music discovery platform I founded in 2015: ~1,000 schema.org-rich pages, a custom PHP/MySQL stack, and zero-dependency tooling I build when off-the-shelf answers aren't good enough.
 
 **Every repo here is extracted from production code.** Not a tutorial. Not a boilerplate. The actual thing, cleaned and documented.
 
@@ -52,7 +52,7 @@ Plain vanilla JavaScript, no frameworks. Live, working demos of six of the repos
 
 ## The DJ Calendar Ecosystem
 
-*Everything that powers [thedjcalendar.com](https://thedjcalendar.com) - extracted as patterns.*
+*Everything that powers [thedjcalendar.com](https://bryanhamilton.info/projects) - extracted as patterns.*
 
 </div>
 
@@ -296,7 +296,7 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 **[bryanhamilton.info](https://bryanhamilton.info)** - Full-stack web engineer, Rochelle Park, NJ
 
-<a href="mailto:hello@bryanhamilton.info">hello@bryanhamilton.info</a> - <a href="tel:+15514095206">(551) 409-5206</a> - <a href="https://calendly.com/hello-bryanhamilton/30min">Book a 15-min call</a> - <a href="https://www.linkedin.com/in/bryanhamiltondev">linkedin.com/in/bryanhamiltondev</a>
+<a href="mailto:hello@bryanhamilton.info">hello@bryanhamilton.info</a> - <a href="tel:+15514095206">(551) 409-5206</a> - <a href="https://calendly.com/hello-bryanhamilton/meet-and-greet">Book a 15-min call</a> - <a href="https://www.linkedin.com/in/bryanhamiltondev">linkedin.com/in/bryanhamiltondev</a>
 
 🔗 <a href="https://bryanhamiltondev.github.io/bryanhamiltondev/">Link hub</a>
 
