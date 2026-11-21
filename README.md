@@ -4,6 +4,10 @@
 
 <br><br>
 
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/bryanhamiltondev.svg)](https://coderlegion.com/user/bryanhamiltondev)
+
+<br><br>
+
 <a href="https://bryanhamilton.info"><img src="https://img.shields.io/badge/Portfolio-bryanhamilton.info-00d2ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: bryanhamilton.info"></a>
 <a href="https://bryanhamilton.info/bryan-hamilton-tech.html"><img src="https://img.shields.io/badge/Resume-Full--Stack_Web_Engineer-24292f?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
 <a href="https://calendly.com/hello-bryanhamilton/meet-and-greet"><img src="https://img.shields.io/badge/Book_a_15--min_call-3ddc84?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a 15-minute call"></a>
