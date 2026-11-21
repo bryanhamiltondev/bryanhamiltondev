@@ -2,11 +2,7 @@
 
 <img src="profile/hero-banner.svg" alt="Bryan Hamilton - PHP & Vanilla JS Engineer" width="100%">
 
-<br><br>
-
-[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/bryanhamiltondev.svg)](https://coderlegion.com/user/bryanhamiltondev)
-
-<br><br>
+<br>
 
 <a href="https://bryanhamilton.info"><img src="https://img.shields.io/badge/Portfolio-bryanhamilton.info-00d2ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: bryanhamilton.info"></a>
 <a href="https://bryanhamilton.info/bryan-hamilton-tech.html"><img src="https://img.shields.io/badge/Resume-Full--Stack_Web_Engineer-24292f?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
@@ -14,7 +10,11 @@
 <a href="https://www.linkedin.com/in/bryanhamiltondev"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://bryanhamilton.info/projects"><img src="https://img.shields.io/badge/The_DJ_Calendar-ff6b35?style=flat-square&logo=googlechrome&logoColor=white" alt="The DJ Calendar"></a>
 
-<br><br>
+<br>
+
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/bryanhamiltondev.svg)](https://coderlegion.com/user/bryanhamiltondev)
+
+<br>
 
 **25+ years building for the web in PHP and vanilla JavaScript. <br>
 Ten repos extracted from live production code. No frameworks. No tutorials.**
