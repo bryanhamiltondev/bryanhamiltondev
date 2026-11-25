@@ -9,7 +9,7 @@
 <a href="https://calendly.com/hello-bryanhamilton/meet-and-greet"><img src="https://img.shields.io/badge/Book_a_15--min_call-3ddc84?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a 15-minute call"></a>
 <a href="https://www.linkedin.com/in/bryanhamiltondev"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.wikidata.org/wiki/Q142141680"><img src="https://img.shields.io/badge/Wikidata-Q142141680-00d2ff?style=flat-square&logo=wikidata&logoColor=white" alt="Wikidata entity Q142141680"></a>
-<a href="https://www.facebook.com/groups/front.designer"><img src="https://img.shields.io/badge/Front--End_Developer_Group-212.7K_members-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Front-End Developer Facebook group"></a>
+<a href="https://www.facebook.com/groups/front.designer"><img src="https://img.shields.io/badge/Front--End_Developer_Group-211.9K_members-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Front-End Developer Facebook group"></a>
 <a href="https://bryanhamilton.info/projects"><img src="https://img.shields.io/badge/The_DJ_Calendar-ff6b35?style=flat-square&logo=googlechrome&logoColor=white" alt="The DJ Calendar"></a>
 
 <br>
@@ -19,7 +19,7 @@
 <br>
 
 **25+ years building for the web in PHP and vanilla JavaScript. <br>
-Ten repos extracted from live production code. No frameworks. No tutorials.**
+Thirty-two repos extracted from live production code. No frameworks. No tutorials.**
 
 </div>
 
@@ -261,7 +261,7 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 | Layer | What I reach for |
 |-------|------------------|
-| **Languages** | PHP (21+ years), JavaScript (vanilla), MySQL, JSON, Bash, HTML/CSS |
+| **Languages** | PHP (25+ years), JavaScript (vanilla), MySQL, JSON, Bash, HTML/CSS |
 | **CMS** | WordPress since 2004, custom plugins, ACF, WP-CLI |
 | **Data & SEO** | schema.org / JSON-LD, PDO, Leaflet, structured-data auditing |
 | **Quality** | GitHub Actions CI, fixture-based self-tests, zero-dependency by conviction |
