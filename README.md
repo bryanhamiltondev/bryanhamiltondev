@@ -14,7 +14,7 @@
 
 <br>
 
-[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/bryanhamiltondev.svg)](https://coderlegion.com/user/bryanhamiltondev) [![CoderCard for @bryanhamiltondev](https://coderlegion.com/codercard/bryanhamiltondev.svg)](https://coderlegion.com/user/bryanhamiltondev?ref=6545&utm_source=codercard&utm_medium=embed)
+[![CoderCard for @bryanhamiltondev](https://coderlegion.com/codercard/bryanhamiltondev.svg)](https://coderlegion.com/user/bryanhamiltondev?ref=6545&utm_source=codercard&utm_medium=embed)
 
 <br>
 
