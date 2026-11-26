@@ -2,6 +2,8 @@
 
 <img src="profile/hero-banner.svg" alt="Bryan Hamilton - PHP & Vanilla JS Engineer" width="100%">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00D2FF&center=true&vCenter=true&width=800&lines=PHP.+Vanilla+JS.+Zero+dependencies.;25%2B+years+shipping+for+the+web;Every+repo+extracted+from+production+code;Open+to+work+-+NYC+metro+%2F+remote" alt="Typing: PHP. Vanilla JS. Zero dependencies.">
+
 <br>
 
 <a href="https://bryanhamilton.info"><img src="https://img.shields.io/badge/Portfolio-bryanhamilton.info-00d2ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: bryanhamilton.info"></a>
@@ -19,7 +21,7 @@
 <br>
 
 **25+ years building for the web in PHP and vanilla JavaScript. <br>
-Thirty-two repos extracted from live production code. No frameworks. No tutorials.**
+Thirty-three public repos extracted from live production code. No frameworks. No tutorials.**
 
 </div>
 
@@ -120,6 +122,81 @@ Bandsintown + Ticketmaster feeds normalized into one row shape, deduped, cached,
 Race-safe lazy script loader with Subresource Integrity. Concurrent-caller dedupe, timeout + cleanup. What loads Leaflet safely.
 
 `#javascript` `#security` `#lazy-loading`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
+
+<div align="center">
+
+## The Ops Rack
+
+*The newest hardware in the rack - extracted Nov 2026, each one a war story.*
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### [crt-rack](https://github.com/bryanhamiltondev/crt-rack)
+
+Your website as a piece of rack gear: status rail, VFD clock, live ticker, dB scroll readout, LCP/CLS HUD, Cmd+K palette, CRT power-button shutdown.
+
+`#javascript` `#canvas` `#retro-ui`
+
+</td>
+<td width="33%" align="center">
+
+#### [deploy-log](https://github.com/bryanhamiltondev/deploy-log)
+
+One commit per production deploy. The honest deploy log of a one-man operation - every patch, every fix, public.
+
+`#php` `#devops` `#transparency`
+
+</td>
+<td width="33%" align="center">
+
+#### [stale-asset-audit](https://github.com/bryanhamiltondev/stale-asset-audit)
+
+Find pages serving a cached asset under an old `?v=` cache key. One PHP file, CI-friendly exit codes. Found **84 drifted pages** in production.
+
+`#php` `#caching` `#audit`
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+#### [og-card](https://github.com/bryanhamiltondev/og-card)
+
+Zero-dependency OG image generator: one PHP file + one JSON manifest renders a 1200x630 share card for every post on your site.
+
+`#php` `#og-image` `#seo`
+
+</td>
+<td width="33%" align="center">
+
+#### [preview-media-session](https://github.com/bryanhamiltondev/preview-media-session)
+
+Make the OS media popover show track + artwork when an `<audio>` preview plays, instead of the page title. One file, no dependencies.
+
+`#javascript` `#media-session` `#ux`
+
+</td>
+<td width="33%" align="center">
+
+#### [badge-proxy](https://github.com/bryanhamiltondev/badge-proxy)
+
+Live third-party numbers on a static site. One PHP file: fetch a public page, extract, cache, serve same-origin JSON. Stale beats nothing.
+
+`#php` `#caching` `#badges`
 
 </td>
 </tr>
@@ -266,6 +343,21 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 | **Data & SEO** | schema.org / JSON-LD, PDO, Leaflet, structured-data auditing |
 | **Quality** | GitHub Actions CI, fixture-based self-tests, zero-dependency by conviction |
 | **Tools** | Git, FTP/SSH, phpMyAdmin, RegEx, browser DevTools, VSCode |
+
+<br>
+
+<img src="profile/divider-eq.svg" alt="" width="100%">
+
+<br>
+
+<div align="center">
+
+## Latest writing
+
+<!-- WRITING-LIST:START -->
+<!-- WRITING-LIST:END -->
+
+</div>
 
 <br>
 
