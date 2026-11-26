@@ -22,4 +22,5 @@ jobs:
           feed_list: 'https://dev.to/feed/bryanhamiltondev'
           max_post_count: 3
           comment_tag_name: WRITING-LIST
+          dont_use_cache: true
           template: "- [$title]($url)\n"
