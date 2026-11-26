@@ -1,26 +1,25 @@
 name: Latest writing
 
 on:
-schedule:
-- cron: '0 3 * * *'
-workflow_dispatch:
-push:
-branches: [main]
-paths:
-- '.github/workflows/writing.yml'
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/writing.yml'
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-update-readme:
-runs-on: ubuntu-latest
-steps:
-- uses: actions/checkout@v4
-- uses: gautamkrishnar/blog-post-workflow@master
-with:
-feed_list: 'https://dev.to/feed/bryanhamiltondev'
-max_post_count: 3
-comment_tag_name: WRITING-LIST
-template: '- $title'
-
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: 'https://dev.to/feed/bryanhamiltondev'
+          max_post_count: 3
+          comment_tag_name: WRITING-LIST
+          template: '- $title ($url)'
