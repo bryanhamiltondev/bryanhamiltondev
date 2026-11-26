@@ -354,7 +354,7 @@ Hardened vanilla-JS fetch wrapper. CSRF token lifecycle, header+body dual inject
 
 ## Latest writing
 
-<!-- WRITING-LIST:START -->- The File on My Server Was Not the File in My Repo (https://dev.to/bryanhamiltondev/the-file-on-my-server-was-not-the-file-in-my-repo-n8e)- Twenty-five years in, I became a CodeNewbie again. (https://dev.to/bryanhamiltondev/twenty-five-years-in-i-became-a-codenewbie-again-47am)- My Homepage Said 23 Repos. GitHub Counted 32. (https://dev.to/bryanhamiltondev/my-homepage-said-23-repos-github-counted-32-56ei)<!-- WRITING-LIST:END -->
+<!-- WRITING-LIST:START -->- [The File on My Server Was Not the File in My Repo](https://dev.to/bryanhamiltondev/the-file-on-my-server-was-not-the-file-in-my-repo-n8e)- [Twenty-five years in, I became a CodeNewbie again.](https://dev.to/bryanhamiltondev/twenty-five-years-in-i-became-a-codenewbie-again-47am)- [My Homepage Said 23 Repos. GitHub Counted 32.](https://dev.to/bryanhamiltondev/my-homepage-said-23-repos-github-counted-32-56ei)<!-- WRITING-LIST:END -->
 
 </div>
 
